@@ -171,7 +171,7 @@ function Resume() {
                           aria-valuemax="100"
                         ></div>
                       </div>
-                      <h4>npm</h4>
+                      <h4>web-app</h4>
                       <div class="progress">
                         <div
                           class="progress-bar progress-bar-striped  progress-bar-animated"
@@ -196,7 +196,7 @@ function Resume() {
                           aria-valuemax="100"
                         ></div>
                       </div>
-                      <h4>ECMAScript latest</h4>
+                      <h4>UI/UX Design</h4>
                       <div class="progress">
                         <div
                           class="progress-bar progress-bar-striped  progress-bar-animated"
@@ -240,7 +240,7 @@ function Resume() {
            
                 <h6 id="projid">
                   Personal Portfolio Website&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<p id="projspan">2022</p>
+                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<p id="projspan">2023</p>
                 </h6>
 
                 <p id="projp1">Technologies used: Reactjs,BootStrap</p>
@@ -251,33 +251,29 @@ function Resume() {
                 </p>
 
                 <h6 id="projid">
-                  Point of Sale System &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<p id="projspan1">2020</p>
+                  Tech-Blogs &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                  <p id="projspan1">2023</p>
 
                 </h6>
 
-                <p id="projp1">Technologies used: Html,php,Js</p>
+                <p id="projp1">Technologies used: React, Tailwind -Css, Strapi  </p>
                 <p id="projp2">
                   {" "}
-                  Point of Sale (POS) System my college final year small
-                  localhost project for <br /> electronic system inventory and
-                  transaction data on continuous basis.
+                  React-based Tech Blogs responsive Web Application that empowers users <br/>to read, and engage with technology-related content.
                 </p>
 
                 <h6 id="projid">
-                  Helping hands &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                 Disney-Clone &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
                   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-                  <p id="projspan2">2019</p>
+                  <p id="projspan2">2023</p>
                 </h6>
 
-                <p id="projp1">Technologies used: Html,php,Js</p>
+                <p id="projp1">Technologies used: React, Tailwind Css, Vitejs, axios, tmdb-api</p>
                 <p id="projp2">
-                  Helping Hands my college pre-final year small team localhost
-                  project for a social
-                  <br /> platform between who need helps and who willing to do
-                  help in children <br />
-                  orphanage, Old age homes.{" "}
+                 This project aims to provide users with an immersive experience reminiscent <br/>of Disney's magical storytelling and characters{" "}
                 </p>
+
                 <br />
               </div>
               {/* interest section4 *//*  data offeset ref colo-9 scroll section colo
