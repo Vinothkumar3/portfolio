@@ -246,8 +246,8 @@ function Resume() {
                 <p id="projp1">Technologies used: Reactjs,BootStrap</p>
                 <p id="projp2">
                   {" "}
-                  A Personal Portfolio website to showcase all my details
-                  project at one place.
+                  Portfolio is simple responsive web application this shows myResume details
+                   in web.this project host <br/> link available in my github repository
                 </p>
 
                 <h6 id="projid">
@@ -260,18 +260,19 @@ function Resume() {
                 <p id="projp1">Technologies used: React, Tailwind -Css, Strapi  </p>
                 <p id="projp2">
                   {" "}
-                  React-based Tech Blogs responsive Web Application that empowers users <br/>to read, and engage with technology-related content.
+                  React-based Tech Blogs responsive Web Application that empowers users to read,<br/> and engage with technology-related content.this project host link available in my github repository
                 </p>
 
                 <h6 id="projid">
-                 Disney-Clone &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                 Disney-Clone&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
                   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
                   <p id="projspan2">2023</p>
                 </h6>
+                
 
                 <p id="projp1">Technologies used: React, Tailwind Css, Vitejs, axios, tmdb-api</p>
                 <p id="projp2">
-                 This project aims to provide users with an immersive experience reminiscent <br/>of Disney's magical storytelling and characters{" "}
+                 Disney-clone is responsive web  provide users with an immersive experience reminiscent of Disney's <br/>magical storytelling and characters.this project host link available in my github repository {" "}
                 </p>
 
                 <br />
