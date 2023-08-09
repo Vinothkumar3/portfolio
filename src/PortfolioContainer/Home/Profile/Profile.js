@@ -8,7 +8,7 @@ function Profile() {
     <div className="profile-container">
       <div className="profile-parent">
         <div className="profile-details">
-          {/* icon links*/}
+          {/* icon links*/ }
           <div className="colz">
             <div className="colz-icon">
               <a
