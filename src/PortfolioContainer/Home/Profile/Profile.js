@@ -1,7 +1,7 @@
 import React from "react";
 import Typical from "react-typical";
 import "./Profile.css";
-import resume from"../../../assets/Home/Vinoth-Resume.pdf"
+import resume from"../../../assets/Home/Vinoth-Resume(Frontend).pdf"
 function Profile() {
   return (
     /* profile picture and home component texts and icons  buttons */
