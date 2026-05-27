@@ -32,7 +32,7 @@ function ContactMe() {
         (error) => {
           /*  toast("An error occurred, Please try again sorry", error.text); */
           toast.error(
-            "error Something Wrong..! 😲 😭",
+            "error Something Wrong..! 😲 😭" + error.text,
             {
               position: toast.POSITION.TOP_RIGHT,
               className: "error_message",
